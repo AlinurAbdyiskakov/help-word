@@ -1,0 +1,9 @@
+.MyFrends{
+    padding: 5px
+    5px 5px 5px;
+  background-color: rgb(250, 201, 96);
+  color: rgb(173, 123, 14);
+    font-size: 25px;
+    font-weight: bold;
+    border: 3px solid rgb(173, 123, 14);
+  }
